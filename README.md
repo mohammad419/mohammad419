@@ -24,7 +24,7 @@
 
 - :soccer: Huge football fan who loves to talk about football and for your more info , I am a Cristiano Ronaldo 🐐 fanboy just in case your're a Messi's.
 
-- :zap: In my free time, I solve problems on [Codewars](https://www.codewars.com/dashboard) and my current [Rank Badge](https://www.codewars.com/users/mohd24/badges/large).
+- :zap: In my free time, I solve problems on [Codewars](https://www.codewars.com/dashboard) and here is my current [Rank Badge](https://www.codewars.com/users/mohd24/badges/large).
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/mohammad-arif-1663a7174/)
 
