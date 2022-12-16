@@ -22,7 +22,7 @@
 
 - :telescope: I’m working as a Senior Software Engineer responsible for building end-to-end NLP Based Web Applications.
 
-- :soccer: Huge football fan who loves to talk about it and for your more info , I am a Cristiano Ronaldo 🐐 fanboy just in case your're a Messi fanboy.
+- :soccer: Huge football fan who loves to talk about football and for your more info , I am a Cristiano Ronaldo 🐐 fanboy just in case your're a Messi's.
 
 - :zap: In my free time, I solve problems on [Codewars](https://www.codewars.com/dashboard) and my current [Rank Badge](https://www.codewars.com/users/mohd24/badges/large).
 
