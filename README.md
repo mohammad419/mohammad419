@@ -18,7 +18,7 @@
 
 ### 🙍‍♂️ About Me :
 
--I am a NLP Engineer at [Coforge](https://www.coforge.com) and MSc In AI/ML Student at [Liverpool John Moores University](https://www.ljmu.ac.uk).
+-I am a Senior Software Engineer at [Coforge](https://www.coforge.com) and MSc In AI/ML Student at [Liverpool John Moores University](https://www.ljmu.ac.uk).
 
 - :telescope: I’m working as a Senior Software Engineer responsible for building end-to-end NLP Based Web Applications.
 
