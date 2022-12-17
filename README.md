@@ -20,7 +20,7 @@
 
 -I am a Senior Software Engineer at [Coforge](https://www.coforge.com) and MSc In AI/ML Student at [Liverpool John Moores University](https://www.ljmu.ac.uk).
 
-- :telescope: I’m working as a Senior Software Engineer responsible for building end-to-end NLP Based Web Applications.
+- :telescope: I’m working as a Senior Software Engineer responsible for building end-to-end AI Based Web Applications.
 
 - :soccer: Huge football fan who loves to talk about football and for your more info , I am a Cristiano Ronaldo 🐐 fanboy just in case your're a Messi's.
 
